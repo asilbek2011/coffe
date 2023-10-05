@@ -1,0 +1,25 @@
+.hero__list{
+    background-image: url(../img/Group7.png);
+    background-repeat: no-repeat;
+    width: 1280px;
+    height: 450px;
+    list-style: none;
+    margin-top: 100px;
+
+    .hero__item{
+        padding-top: 70px;
+        padding-left: 20px;
+    }
+
+    .hero__heading{
+        color: #FEFCF7;
+        font-size: 40px;
+        font-family: "Fraunces 9pt";
+    }
+
+    .hero__text{
+        color: #FEFCF7;
+        width: 400px;
+        font-family: "Barlow";
+    }
+}
